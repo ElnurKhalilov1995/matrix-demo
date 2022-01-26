@@ -3,11 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9230082f-cb48-4d63-b91c-d555f6dbc255" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/index1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/matrix-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,8 @@
       <updated>1642608140859</updated>
       <workItem from="1642608177696" duration="2328000" />
       <workItem from="1642845194037" duration="414000" />
-      <workItem from="1642854415867" duration="1341000" />
+      <workItem from="1642854415867" duration="2920000" />
+      <workItem from="1643181346742" duration="311000" />
     </task>
     <servers />
   </component>
